@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Models\Card.cs" />
+    <Compile Remove="Models\ComputerPlayer.cs" />
+    <Compile Remove="Models\Suits.cs" />
+    <Compile Remove="Models\EmptyEnumeration.cs" />
+    <Compile Remove="Models\Game.cs" />
+    <Compile Remove="Models\Player.cs" />
+    <Compile Remove="Helpers\CardListExtensions.cs" />
+    <Compile Remove="Models\GameState.cs" />
+    <Compile Remove="Models\Deck.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ThirtyOne.Shared\ThirtyOne.Shared.csproj" />
+  </ItemGroup>
+</Project>

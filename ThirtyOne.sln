@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirtyOne", "ThirtyOne\ThirtyOne.csproj", "{DC143042-5682-49D1-9B69-D0BDA4E316B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirtyOne.Shared", "ThirtyOne.Shared\ThirtyOne.Shared.csproj", "{3DCEDAF3-0F3C-45A1-A710-46A5A5328EB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC143042-5682-49D1-9B69-D0BDA4E316B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC143042-5682-49D1-9B69-D0BDA4E316B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC143042-5682-49D1-9B69-D0BDA4E316B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC143042-5682-49D1-9B69-D0BDA4E316B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DCEDAF3-0F3C-45A1-A710-46A5A5328EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCEDAF3-0F3C-45A1-A710-46A5A5328EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCEDAF3-0F3C-45A1-A710-46A5A5328EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCEDAF3-0F3C-45A1-A710-46A5A5328EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

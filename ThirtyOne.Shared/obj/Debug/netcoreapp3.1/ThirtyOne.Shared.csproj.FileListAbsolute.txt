@@ -1,0 +1,8 @@
+/Users/MrsZar/Desktop/HYF/NET_Core_course/ThirtyOne/ThirtyOne.Shared/bin/Debug/netcoreapp3.1/ThirtyOne.Shared.deps.json
+/Users/MrsZar/Desktop/HYF/NET_Core_course/ThirtyOne/ThirtyOne.Shared/bin/Debug/netcoreapp3.1/ThirtyOne.Shared.dll
+/Users/MrsZar/Desktop/HYF/NET_Core_course/ThirtyOne/ThirtyOne.Shared/bin/Debug/netcoreapp3.1/ThirtyOne.Shared.pdb
+/Users/MrsZar/Desktop/HYF/NET_Core_course/ThirtyOne/ThirtyOne.Shared/obj/Debug/netcoreapp3.1/ThirtyOne.Shared.csprojAssemblyReference.cache
+/Users/MrsZar/Desktop/HYF/NET_Core_course/ThirtyOne/ThirtyOne.Shared/obj/Debug/netcoreapp3.1/ThirtyOne.Shared.AssemblyInfoInputs.cache
+/Users/MrsZar/Desktop/HYF/NET_Core_course/ThirtyOne/ThirtyOne.Shared/obj/Debug/netcoreapp3.1/ThirtyOne.Shared.AssemblyInfo.cs
+/Users/MrsZar/Desktop/HYF/NET_Core_course/ThirtyOne/ThirtyOne.Shared/obj/Debug/netcoreapp3.1/ThirtyOne.Shared.dll
+/Users/MrsZar/Desktop/HYF/NET_Core_course/ThirtyOne/ThirtyOne.Shared/obj/Debug/netcoreapp3.1/ThirtyOne.Shared.pdb
